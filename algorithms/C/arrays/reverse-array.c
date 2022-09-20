@@ -1,4 +1,4 @@
-/*PROBLEM:Given an array, of size n, reverse it. */
+
 
 #include <stdio.h>
 
