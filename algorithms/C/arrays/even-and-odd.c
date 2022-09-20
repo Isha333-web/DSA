@@ -8,8 +8,8 @@ int main()
  for (int i = 0; i < n; i++)
  {
  scanf("%d", &arr[i]);
- }
- int arr_odd[n], arr_even[n]; //arr_odd[] for odd elements and arr_even[] for even elements
+ 
+ int arr_odd[n], arr_even[n]; //arr_odd[] 
  int o = 0, e = 0;
  for (int i = 0; i < n; i++)
  {
